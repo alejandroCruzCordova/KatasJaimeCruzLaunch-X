@@ -1,0 +1,6 @@
+# Bash | Consola
+  # Windows
+  env\Scripts\activate
+
+  # Linux, WSL o macOS
+  source env/Scripts/activate
